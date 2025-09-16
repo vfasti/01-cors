@@ -8,8 +8,12 @@
     <h1>Weather Forecast</h1>
     <ul id="data"></ul>
     <script>
+        // get localhost domain
+        const origin = window.location.origin;
+        console.log("Current Origin:", origin);
+
         const dataDiv = document.getElementById("data");
-        fetch('http://localhost:5260/WeatherForecast')
+        fetch(`${origin}/WeatherForecast`)
             .then(res => res.json())
             .then(data => data.map(item => {
                 dataDiv.innerHTML += `<li>${item.date}: ${item.temperatureC} °C</li>`
