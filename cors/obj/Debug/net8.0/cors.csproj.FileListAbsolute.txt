@@ -69,3 +69,4 @@ C:\Users\veren\Desktop\repos\5sof\01-cors\cors\obj\Debug\net8.0\cors.pdb
 C:\Users\veren\Desktop\repos\5sof\01-cors\cors\obj\Debug\net8.0\cors.genruntimeconfig.cache
 C:\Users\veren\Desktop\repos\5sof\01-cors\cors\obj\Debug\net8.0\ref\cors.dll
 C:\Users\veren\Desktop\repos\5sof\01-cors\cors\bin\Debug\net8.0\cors.staticwebassets.runtime.json
+C:\Users\veren\Desktop\repos\5sof\01-cors\cors\obj\Debug\net8.0\cors.sourcelink.json
