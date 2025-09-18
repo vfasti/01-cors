@@ -8,9 +8,7 @@
     <h1>Weather Forecast</h1>
     <ul id="data"></ul>
     <script>
-        // get localhost domain
-        const origin = window.location.origin;
-        console.log("Current Origin:", origin);
+        const orgin = "https://localhost:7193"; // window.location.origin;
 
         const dataDiv = document.getElementById("data");
         fetch(`${origin}/WeatherForecast`)

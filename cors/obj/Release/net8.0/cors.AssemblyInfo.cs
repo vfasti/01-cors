@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cors")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea527ffa56dea46a6178f686a9e80df60653a069")]
 [assembly: System.Reflection.AssemblyProductAttribute("cors")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cors")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
